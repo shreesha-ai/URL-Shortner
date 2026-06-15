@@ -73,5 +73,5 @@ A production-ready URL shortener application built with the MERN stack (MongoDB,
 2. Add your IP to the allowlist.
 3. Copy the connection string.
 
----
-This project is a part of a hackathon run by https://katomaran.com
+### YouTube Link
+https://youtu.be/iiQv3HnydYY
